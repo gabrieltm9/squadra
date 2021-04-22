@@ -170,6 +170,7 @@ members:
       email: gsroman@bu.edu
       routes:
         - alumni@bostonhacks.io
+    status: inactive
   - name: Gabriel Moncau
     github:
       username: gabrieltm9
@@ -179,7 +180,7 @@ members:
       routes:
         - contact@bostonhacks.io
         - marketing@bostonhacks.io
-    status: inactive
+    status: active
   - name: Grace Colbert
     github:
       username: gracejpeg
